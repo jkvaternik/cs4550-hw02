@@ -23,7 +23,6 @@
     state.b = '0';
     state.operator = '';
     document.getElementById('result').innerHTML = state.a;
-    console.log(state);
   }
 
   function clear() {
