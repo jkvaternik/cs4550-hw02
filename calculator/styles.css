@@ -1,21 +1,21 @@
 table {
-    border: 1px #13556e solid;
-    border-radius: 10px;
-    background-color: #239bca;
-    padding: 10px;
+  border: 1px #13556e solid;
+  border-radius: 10px;
+  background-color: #239bca;
+  padding: 10px;
 }
 
 .wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 #result {
-    padding: 5px;
-    background-color: #ffffff;
-    border-radius: 5px;
-    margin-bottom: 10px;
-    font-family: 'Helvetica', Arial, sans-serif;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-family: 'Helvetica', Arial, sans-serif;
 }
