@@ -1,0 +1,52 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name? 
+Jaime Kvaternik
+
+2. What hostname did you deploy to? 
+hw02.jk-web.site
+
+3. What's the link to your repository on github with your code?
+https://github.com/jkvaternik/cs4550-hw02
+
+4. How many HTML / CSS tutorial exercises did you do?
+22 + 34
+
+5. How comfortable do you feel with HTML and CSS now? 
+Very comfortable. I also took a LinkedIn Learning class over the
+summer on HTML and CSS.
+
+6. How many JS tutorial exercises did you do?
+24
+
+7. How comfortable do you feel with JS now? 
+Somewhat comfortable. There are still somethings that I need to search
+for to remember a specific method, but I think that will improve over
+the course.
+
+8. Do all of your HTML pages pass the Wz3C HTML validator?
+(https://validator.w3.org/) 
+Yup!
+
+9. Which parts of this assignment did you have trouble with, if any?
+I struggled a bit with setting up the calculator logic. I knew we were
+allowed one global variable but wasn't sure types were allowed. I
+ended up going with a object to control the state which worked, but I
+spent a while trying other approaches because I wasn't sure if our
+global variable could be an object... I also was a bit confused as to
+whether or not I should use the eval() function that I found on the
+w3schools site. I looked into the function more and saw that it was
+discouraged by the MDN docs. Because of this, I also tried other
+options but defaulted to eval in the end.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
