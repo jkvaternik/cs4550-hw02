@@ -33,7 +33,7 @@
   }
 
   function display(val) {
-    result = document.getElementById('result');
+    let result = document.getElementById('result');
 
     if (val === '.') {
       if (state.operator === '') {
